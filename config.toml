@@ -1,4 +1,4 @@
 baseurl = "/"
 title = "website"
-theme = "hugo_theme_solit"
+theme = "hugo_theme_robust"
 languageCode = "en-us"
