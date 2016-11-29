@@ -1,6 +1,6 @@
 +++
 title = "日本語テスト"
-draft = true
+draft = false
 date = "2016-11-29T15:21:16+09:00"
 
 +++
