@@ -1,3 +1,5 @@
 baseurl = "/"
 title = "WEBSITE"
 languageCode = "en-us"
+style = "default"
+theme = "hugo-creative-portfolio-theme"
