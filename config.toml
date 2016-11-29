@@ -1,6 +1,4 @@
 baseurl = "/"
 title = "website"
-theme = "hugo_theme_robust"
+theme = "hugo_theme_solit"
 languageCode = "en-us"
-[params]
-dateformat = "Jan 2, 2006"
